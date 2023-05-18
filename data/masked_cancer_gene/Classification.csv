@@ -1,0 +1,310 @@
+TumourType,alias,classification
+AML,acute myeloid leukaemia,Acute Myeloid Leukemia
+CML,chronic myeloid leukaemia,Chronic Myelogenous Leukemia
+DIPG,diffuse intrinsic pontine glioma,Glioma
+AL,acute leukaemia,Acute Myeloid Leukemia
+ALL,acute lymphocytic leukaemia,Acute Myeloid Leukemia
+GBM,glioblastoma multiforme,Glioblastoma
+ALCL,anaplastic large-cell lymphoma,Haematopoietic and Lymphoid
+MDS,myelodysplastic syndrome,Other Blood Cancers
+T-PLL,T-cell prolymphocytic leukaemia,T-Lymphoblastic Leukemia
+DLBCL,diffuse large B-cell lymphoma,B-Cell Non-Hodgkin's Lymphoma
+MALT,mucosa-associated lymphoid tissue lymphoma,Haematopoietic and Lymphoid
+B-CLL,B-cell lymphocytic leukaemia,B-Lymphoblastic Leukemia
+T-ALL,T-cell acute lymphoblastic leukaemia,T-Lymphoblastic Leukemia
+NHL,non-Hodgkin lymphoma,Haematopoietic and Lymphoid
+CLL,chronic lymphocytic leukaemia,T-Lymphoblastic Leukemia
+B-ALL,B-cell acute lymphocytic leukaemia,B-Lymphoblastic Leukemia
+MPN,myeloproliferative neoplasm,Haematopoietic and Lymphoid
+MM,multiple myeloma,Plasma Cell Myeloma
+PMBL,primary mediastinal B-cell lymphoma,B-Cell Non-Hodgkin's Lymphoma
+NSCLC,non small cell lung cancer,Non-Small Cell Lung Carcinoma
+DFSP,dermatofibrosarcoma protuberans,Skin
+aCML,atypical chronic myeloid leukaemia,Chronic Myelogenous Leukemia
+WM,Waldenstrom's macroglobulinaemia,Haematopoietic and Lymphoid
+AML*,acute myeloid leukaemia,Acute Myeloid Leukemia
+B-NHL,B-cell non-Hodgkin lymphoma,B-Cell Non-Hodgkin's Lymphoma
+SCC,squamous cell carcinoma,Skin
+HNSCC,head and neck squamous cell carcinoma,Head and Neck Carcinoma
+CMML,chronic myelomonocytic leukaemia,Chronic Myelogenous Leukemia
+SMZL,splenic marginal zone lymphoma,B-Cell Non-Hodgkin's Lymphoma
+GIST,gastrointestinal stromal tumour,Gastric Carcinoma
+APL,acute promyelocytic leukaemia,Acute Myeloid Leukemia
+MLCLS,mediastinal large cell lymphoma with sclerosis,Haematopoietic and Lymphoid
+JMML,juvenile myelomonocytic leukaemia,Chronic Myelogenous Leukemia
+T-CLL,T-cell chronic lymphocytic leukaemia,T-Lymphoblastic Leukemia
+pre-B ALL,pre-B-cell acute lymphoblastic leukaemia,B-Lymphoblastic Leukemia
+AEL,acute eosinophilic leukaemia,Acute Myeloid Leukemia
+RCC,renal cell carcinoma,Kidney Carcinoma
+CNL,chronic neutrophilic leukaemia,Haematopoietic and Lymphoid
+TGCT,testicular germ cell tumour,Testis
+sAML,secondary acute myeloid leukaemia,Acute Myeloid Leukemia
+SCCOHT,"small cell carcinoma of the ovary, hypercalcaemic type",Ovary
+MCL,mantle cell lymphoma,B-Cell Non-Hodgkin's Lymphoma
+SM-AHD,systemic mastocytosis associated with other haematological disorder,Haematopoietic and Lymphoid
+HES,hypereosinophilic syndrome,Haematopoietic and Lymphoid
+melanocytic nevus,melanocytic nevus,Melanoma
+prostate,prostate,Prostate Carcinoma
+gastric,gastric,Gastric Carcinoma
+melanoma,melanoma,Melanoma
+large intestine carcinoma,large intestine carcinoma,Large Intestine
+papillary thyroid,papillary thyroid,Thyroid Gland Carcinoma
+breast,breast,Breast Carcinoma
+ovarian,ovarian,Ovarian Carcinoma
+leiomyoma,leiomyoma,Soft Tissue
+Wilms tumour,Wilms tumour,Kidney
+CCRCC,CCRCC,Kidney
+cholangiocarcinoma,cholangiocarcinoma,Biliary Tract Carcinoma
+endometrial carcinoma,endometrial carcinoma,Endometrial Carcinoma
+colon cancer,colon cancer,Colorectal Carcinoma
+lymphoma,lymphoma,Haematopoietic and Lymphoid
+clear cell ovarian carcinoma,clear cell ovarian carcinoma,Ovarian Carcinoma
+hepatocellular carcinoma,hepatocellular carcinoma,Hepatocellular Carcinoma
+alveolar soft part sarcoma,alveolar soft part sarcoma,Soft Tissue
+adrenal aldosterone producing adenoma,adrenal aldosterone producing adenoma,Adrenal Gland
+pancreatic neuroendocrine tumours,pancreatic neuroendocrine tumours,Pancreatic Carcinoma
+colorectal,colorectal,Colorectal Carcinoma
+colorectal carcinoma,colorectal carcinoma,Colorectal Carcinoma
+uveal melanoma,uveal melanoma,Melanoma
+breast cancer,breast cancer,Breast
+colorectal cancer,colorectal cancer,Colorectal Carcinoma
+uterine carcinosarcoma,uterine carcinosarcoma,Uterus
+BNHL,BNHL,B-Cell Non-Hodgkin's Lymphoma
+retinoblastoma,retinoblastoma,Neuroblastoma
+lethal midline carcinoma of young people,lethal midline carcinoma of young people,Head and Neck
+epithelioid haemangioendothelioma,epithelioid haemangioendothelioma,Skin
+ovarian cancer,ovarian cancer,Ovarian Carcinoma
+hepatocellular,hepatocellular,Hepatocellular Carcinoma
+glioma,glioma,Glioma
+serous ovarian,serous ovarian,Ovarian Carcinoma
+adult T-cell leukaemia/lymphoma,adult T-cell leukaemia/lymphoma,T-Lymphoblastic Leukemia
+prostate carcinoma,prostate carcinoma,Prostate Carcinoma
+T-cell lymphoma,T-cell lymphoma,T-Cell Non-Hodgkin's Lymphoma
+parathyroid adenoma,parathyroid adenoma,Thyroid
+aneurysmal bone cyst,aneurysmal bone cyst,Bone
+Spitzoid tumour,Spitzoid tumour,Skin
+salivary adenoma,salivary adenoma,Head and Neck
+uterine serous carcinoma,uterine serous carcinoma,Uterus
+oligodendroglioma,oligodendroglioma,Glioma
+gastric cancer,gastric cancer,Gastric Carcinoma
+chondrosarcoma,chondrosarcoma,Chondrosarcoma
+lipoblastoma,lipoblastoma,Other Sarcomas
+uterine leiomyoma,uterine leiomyoma,Uterus
+lung cancer,lung cancer,Lung
+clear cell sarcoma,clear cell sarcoma,Other Sarcomas
+myxofibrosarcoma,myxofibrosarcoma,Other Sarcomas
+fibromyxoid sarcoma,fibromyxoid sarcoma,Other Sarcomas
+base cell carcinoma,base cell carcinoma,Skin
+salivary gland mucoepidermoid,salivary gland mucoepidermoid,Oral Cavity Carcinoma
+endometrial,endometrial,Uterus
+prostae adenocarcinoma,prostae adenocarcinoma,Prostate Carcinoma
+cylindroma,cylindroma,Head and Neck
+pancreatic neuroendocrine tumour,pancreatic neuroendocrine tumour,Pancreatic Carcinoma
+CRC,CRC,Colorectal Carcinoma
+liposarcoma,liposarcoma,Other Sarcomas
+squamous cell carcinoma,squamous cell carcinoma,Skin
+sex cord-stromal tumour,sex cord-stromal tumour,Ovary
+fibrolamellar hepatocellular carcinoma,fibrolamellar hepatocellular carcinoma,Hepatocellular Carcinoma
+lipoma,lipoma,Skin
+ETP ALL,ETP ALL,T-Lymphoblastic Leukemia
+malignant peripheral nerve sheath tumours,malignant peripheral nerve sheath tumours,Neuroblastoma
+pancreatic cancer,pancreatic cancer,Pancreatic Carcinoma
+paraganglioma,paraganglioma,Glioma
+colon,colon,Colorectal Carcinoma
+Ewing sarcoma,Ewing sarcoma,Ewing's Sarcoma
+congenital fibrosarcoma,congenital fibrosarcoma,Other Sarcomas
+pilocytic astrocytoma,pilocytic astrocytoma,Central Nervous System
+SCLC,SCLC,Squamous Cell Lung Carcinoma
+oral squamous cell,oral squamous cell,Oral Cavity Carcinoma
+bladder,bladder,Bladder Carcinoma
+rhabdomyosarcoma,rhabdomyosarcoma,Rhabdomyosarcoma
+pleomorphic salivary gland adenoma,pleomorphic salivary gland adenoma,Thyroid
+idiopathic hypereosinophilic syndrome,idiopathic hypereosinophilic syndrome,Other Blood Cancers
+phyllodes tumour of the breast,phyllodes tumour of the breast,Breast Carcinoma
+soft tissue sarcoma,soft tissue sarcoma,Soft Tissue
+granulosa-cell tumour of the ovary,granulosa-cell tumour of the ovary,Ovary
+alveolar rhabdomyosarcoma,alveolar rhabdomyosarcoma,Rhabdomyosarcoma
+neuroblastoma,neuroblastoma,Neuroblastoma
+megakaryoblastic leukaemia of Downs syndrome,megakaryoblastic leukaemia of Downs syndrome,Other Blood Cancers
+AML (CML blast transformation),AML (CML blast transformation),Acute Myeloid Leukemia
+pituitary adenoma,pituitary adenoma,Head and Neck
+glioblastoma,glioblastoma,Glioblastoma
+lung adenocarcinoma,lung adenocarcinoma,Lung
+chondroblastoma,chondroblastoma,Chondrosarcoma
+mesenchymal chondrosarcoma,mesenchymal chondrosarcoma,Chondrosarcoma
+microfollicular thyroid adenoma,microfollicular thyroid adenoma,Thyroid
+hepatic adenoma,hepatic adenoma,Liver
+infrequent sarcomas,infrequent sarcomas,Other Sarcomas
+Burkitt lymphoma,Burkitt lymphoma,Burkitt's Lymphoma
+intestinal T-cell lymphoma,intestinal T-cell lymphoma,T-Cell Non-Hodgkin's Lymphoma
+peripheral T-cell lymphoma,peripheral T-cell lymphoma,T-Cell Non-Hodgkin's Lymphoma
+acute megakaryocytic leukaemia,acute megakaryocytic leukaemia,Other Blood Cancers
+endometrial stromal tumour,endometrial stromal tumour,Uterus
+sarcoma,sarcoma,Other Sarcomas
+adrenal adenoma,adrenal adenoma,Adrenal Gland
+clear cell renal carcinoma,clear cell renal carcinoma,Kidney Carcinoma
+renal cell carcinoma,renal cell carcinoma,Kidney Carcinoma
+meningioma,meningioma,Head and Neck
+medulloblastoma,medulloblastoma,Central Nervous System
+pancreatic,pancreatic,Pancreatic Carcinoma
+skin basal cell carcinoma,skin basal cell carcinoma,Skin
+malignant mesothelioma,malignant mesothelioma,Mesothelioma
+liver,liver,Liver
+luminal A breast,luminal A breast,Breast Carcinoma
+pheochromocytoma,pheochromocytoma,Adrenal Gland
+parathyroid tumours,parathyroid tumours,Thyroid
+papillary renal,papillary renal,Kidney Carcinoma
+adenoid cystic carcinoma,adenoid cystic carcinoma,Head and Neck
+small cell lung carcinoma,small cell lung carcinoma,Small Cell Lung Carcinoma
+ABC-DLBCL,ABC-DLBCL,B-Cell Non-Hodgkin's Lymphoma
+embryonal rhabdomyosarcoma,embryonal rhabdomyosarcoma,Rhabdomyosarcoma
+solitary fibrous tumour,solitary fibrous tumour,Soft Tissue
+neurofibroma,neurofibroma,Skin
+marginal zone lymphoma,marginal zone lymphoma,B-Cell Non-Hodgkin's Lymphoma
+extraskeletal myxoid chondrosarcoma,extraskeletal myxoid chondrosarcoma,Chondrosarcoma
+relapse ALL,relapse ALL,Acute Myeloid Leukemia
+follicular thyroid,follicular thyroid,Thyroid
+pre B-ALL,pre B-ALL,Acute Myeloid Leukemia
+angiosarcoma,angiosarcoma,Skin
+adult T-cell lymphoma-leukaemia,adult T-cell lymphoma-leukaemia,T-Lymphoblastic Leukemia
+skin basal cell,skin basal cell,Skin
+renal,renal,Kidney Carcinoma
+lung,lung,Lung
+angiocentric glioma,angiocentric glioma,Glioma
+inflammatory myofibroblastic tumour,inflammatory myofibroblastic tumour,Lung
+Hodgkin lymphoma,Hodgkin lymphoma,Hodgkin's Lymphoma
+medullary thyroid,medullary thyroid,Thyroid
+diffuse gastric,diffuse gastric,Gastric Carcinoma
+colorectal adenocarcinoma,colorectal adenocarcinoma,Colorectal Carcinoma
+myelodysplastic syndrome,myelodysplastic syndrome,Other Blood Cancers
+Nodular lymphocyte predominant Hodgkin lymphoma,Nodular lymphocyte predominant Hodgkin lymphoma,Hodgkin's Lymphoma
+malignant rhabdoid,malignant rhabdoid,Rhabdomyosarcoma
+pancreas acinar carcinoma,pancreas acinar carcinoma,Pancreas
+multiple myeloma,multiple myeloma,Plasma Cell Myeloma
+synovial sarcoma,synovial sarcoma,Other Sarcomas
+bladder carcinoma,bladder carcinoma,Bladder Carcinoma
+T-cell large granular lymphocytic leukaemia,T-cell large granular lymphocytic leukaemia,T-Lymphoblastic Leukemia
+large granular lymphocytic leukaemia,large granular lymphocytic leukaemia,T-Lymphoblastic Leukemia
+anaplastic thyroid,anaplastic thyroid,Thyroid
+lymphoblastic leukaemia/biphasic,lymphoblastic leukaemia/biphasic,Haematopoietic and Lymphoid
+splenic marginal zone lymphoma,splenic marginal zone lymphoma,B-Cell Non-Hodgkin's Lymphoma
+myxoid chondrosarcoma,myxoid chondrosarcoma,Chondrosarcoma
+renal cell carcinoma (childhood epithelioid),renal cell carcinoma (childhood epithelioid),Kidney Carcinoma
+head and neck,head and neck,Head and Neck
+marginal zone B-cell lymphomas,marginal zone B-cell lymphomas,B-Cell Non-Hodgkin's Lymphoma
+follicular lymphoma,follicular lymphoma,Thyroid
+pulmonary lymphangioleiomyomatosis (LAM),pulmonary lymphangioleiomyomatosis (LAM),Soft Tissue
+toxic thyroid adenoma,toxic thyroid adenoma,Thyroid
+mantle cell lymphoma,mantle cell lymphoma,B-Cell Non-Hodgkin's Lymphoma
+corticotroph adenoma,corticotroph adenoma,Adrenal Gland
+colon carcinoma,colon carcinoma,Colorectal Carcinoma
+endometrial stromal sarcoma,endometrial stromal sarcoma,Endometrial Carcinoma
+follicular thyroid adenoma,follicular thyroid adenoma,Thyroid
+stomach carcinoma,stomach carcinoma,Stomach
+paediatric GBM,paediatric GBM,Glioblastoma
+gastric adenocarcinoma,gastric adenocarcinoma,Gastric Carcinoma
+small intestine neuroendocrine tumours,small intestine neuroendocrine tumours,Small Intestine
+multiple other tumour types,multiple other tumour types,ALL Cancers
+large intestine,large intestine,Large Intestine
+enchondroma,enchondroma,Chondrosarcoma
+angiomatoid fibrous histiocytoma,angiomatoid fibrous histiocytoma,Soft Tissue
+Downs associated ALL,Downs associated ALL,Other Blood Cancers
+oral SCC,oral SCC,Oral Cavity Carcinoma
+paediatric glioblastoma,paediatric glioblastoma,Glioblastoma
+MDS and related,MDS and related,Other Blood Cancers
+thyroid cancer (PDTC and ATC),thyroid cancer (PDTC and ATC),Thyroid
+multiple different leukaemia and lymphoma tumour types including ALL,multiple different leukaemia and lymphoma tumour types including ALL,Haematopoietic and Lymphoid
+desmoplastic small round cell tumour ,desmoplastic small round cell tumour ,Soft Tissue
+clear cell sarcoma of soft parts,clear cell sarcoma of soft parts,Soft Tissue
+chemorefractory CLL,chemorefractory CLL,T-Lymphoblastic Leukemia
+colon adenocarcinoma,colon adenocarcinoma,Colorectal Carcinoma
+ovarian carcinoma,ovarian carcinoma,Ovarian Carcinoma
+oesophagus cancer,oesophagus cancer,Endometrial Carcinoma
+primary central nervous system melanocytic neoplasms,primary central nervous system melanocytic neoplasms,Central Nervous System
+pancreatic intraductal papillary mucinous neoplasm,pancreatic intraductal papillary mucinous neoplasm,Pancreatic Carcinoma
+various benign mesenchymal tumours,various benign mesenchymal tumours,Non-Cancerous
+rare other tumour types,rare other tumour types,ALL Cancers
+breast carcinoma,breast carcinoma,Breast Carcinoma
+leukaemia,leukaemia,Haematopoietic and Lymphoid
+ovarian mixed germ cell tumour,ovarian mixed germ cell tumour,Ovarian Carcinoma
+endometrioid carcinoma,endometrioid carcinoma,Endometrium
+fibroadenoma,fibroadenoma,Breast Carcinoma
+head-neck squamous cell,head-neck squamous cell,Head and Neck Carcinoma
+amplified in other cancers,amplified in other cancers,ALL Cancers
+meningeal haemangiopericytoma,meningeal haemangiopericytoma,Central Nervous System
+acoustic neuroma,acoustic neuroma,Peripheral Nervous System
+desmoplastic melanoma,desmoplastic melanoma,Melanoma
+secretory breast,secretory breast,Breast Carcinoma
+Down syndrome associated ALL,Down syndrome associated ALL,Other Blood Cancers
+myoepithelioma,myoepithelioma,Soft Tissue
+pancreatic ductal adenocarcinoma,pancreatic ductal adenocarcinoma,Pancreatic Carcinoma
+cortisol secreting adrenal adenoma,cortisol secreting adrenal adenoma,Adrenal Gland
+kidney cancer,kidney cancer,Kidney
+endometrium,endometrium,Endometrium
+T cell lymphomas,T cell lymphomas,T-Cell Non-Hodgkin's Lymphoma
+ovary,ovary,Ovarian Carcinoma
+oral squamous cell carcinoma,oral squamous cell carcinoma,Oral Cavity Carcinoma
+primary central nervous system lymphoma,primary central nervous system lymphoma,Peripheral Nervous System
+renal angiomyolipoma,renal angiomyolipoma,Kidney Carcinoma
+haemangioma,haemangioma,Non-Cancerous
+desmoplastic small round cell tumour,desmoplastic small round cell tumour,Soft Tissue
+adrenocortical carcinoma,adrenocortical carcinoma,Adrenal Gland
+pancreatic carcinoma,pancreatic carcinoma,Pancreatic Carcinoma
+Langerhans cell histiocytosis,Langerhans cell histiocytosis,Other Blood Cancers
+APL (translocation),APL (translocation),Acute Myeloid Leukemia
+ leukaemia lymphoma and MDS associated with severe congenital neutropenia,leukaemia lymphoma and MDS associated with severe congenital neutropenia,Other Blood Cancers
+head and neck cancer,head and neck cancer,Head and Neck Carcinoma
+ hepatoblastoma,hepatoblastoma,Hepatocellular Carcinoma
+low grade serous ovarian cancer,low grade serous ovarian cancer,Ovarian Carcinoma
+central nervous system hemangioblastomas,central nervous system hemangioblastomas,Central Nervous System
+other tumour types,other tumour types,ALL Cancers
+fibrous dysplasia,fibrous dysplasia,Soft Tissue
+borderline ovarian,borderline ovarian,Ovarian Carcinoma
+gastric carcinoma,gastric carcinoma,Gastric Carcinoma
+oesophageal SCC,oesophageal SCC,Esophageal Squamous Cell Carcinoma
+eyelid sebaceous carcinoma,eyelid sebaceous carcinoma,Skin
+oesophageal squamous cell carcinoma,oesophageal squamous cell carcinoma,Esophageal Squamous Cell Carcinoma
+cervical carcinoma,cervical carcinoma,Cervical Carcinoma
+phyllodes tumour,phyllodes tumour,Breast Carcinoma
+clear cell renal cell carcinoma,clear cell renal cell carcinoma,Kidney
+paediatric Burkitt lymphoma,paediatric Burkitt lymphoma,Burkitt's Lymphoma
+pancreas,pancreas,Pancreas
+prostate cancer,prostate cancer,Prostate Carcinoma
+MDS/MPN-U,MDS/MPN-U,Other Blood Cancers
+erythrocytosis,erythrocytosis,Haematopoietic and Lymphoid
+Lung SCC,Lung SCC,Squamous Cell Lung Carcinoma
+small intestine,small intestine,Small Intestine
+skin,skin,Skin
+biliary tract,biliary tract,Biliary Tract Carcinoma
+monoclonal B lymphocytosis,monoclonal B lymphocytosis,B-Cell Non-Hodgkin's Lymphoma
+hemangioblastoma,hemangioblastoma,Central Nervous System
+pleuropulmonary blastoma,pleuropulmonary blastoma,Lung
+pancreatic acinar cell carcinoma,pancreatic acinar cell carcinoma,Pancreatic Carcinoma
+lung carcinoma,lung carcinoma,Lung
+mastocytosis,mastocytosis,Haematopoietic and Lymphoid
+thyroid,thyroid,Thyroid
+urothelial cancer,urothelial cancer,Bladder Carcinoma
+CNS tumours,CNS tumours,Central Nervous System
+anaplastic thyroid cancer,anaplastic thyroid cancer,Thyroid
+skin SCC,skin SCC,Skin
+skin cancer,skin cancer,Skin
+peritoneal carcinomatosis,peritoneal carcinomatosis,Liver
+Ewing's sarcoma,Ewing's sarcoma,Ewing's Sarcoma
+gallbladder carcinoma,gallbladder carcinoma,Biliary Tract
+oesophagus,oesophagus,Esophagus
+hepatoblastoma,hepatoblastoma,Hepatocellular Carcinoma
+de novo AML,de novo AML,Acute Myeloid Leukemia
+pituitary blastoma,pituitary blastoma,Head and Neck Carcinoma
+mucosal melanoma,mucosal melanoma,Melanoma
+lymphomas,lymphomas,Haematopoietic and Lymphoid
+urothelial cell carcinoma,urothelial cell carcinoma,Bladder Carcinoma
+others,others,ALL Cancers
+myeloid neoplasms,myeloid neoplasms,Haematopoietic and Lymphoid
+adrenocortical,adrenocortical,Adrenal Gland
+sporadic medulloblastoma,sporadic medulloblastoma,Peripheral Nervous System
+central nervous system tumours,central nervous system tumours,Central Nervous System
+head and neck SCC,head and neck SCC,Head and Neck Carcinoma
+skin squamous cell,skin squamous cell,Skin
+thyroid cancer,thyroid cancer,Thyroid
+mesothelioma,mesothelioma,Mesothelioma
+testicular germ cell tumours and other tumour types,testicular germ cell tumours and other tumour types,Testis

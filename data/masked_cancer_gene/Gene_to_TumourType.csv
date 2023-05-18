@@ -1,0 +1,657 @@
+﻿Gene Symbol,Role,Tumour Types(Somatic)
+A1CF,oncogene,melanoma
+ABI1,"TSG, fusion",AML
+ABL1,"oncogene, fusion",CML;ALL;T-ALL
+ABL2,"oncogene, fusion",AML
+ACSL3,fusion,prostate
+ACSL6,fusion,AML;AEL
+ACVR1,oncogene,DIPG
+ACVR2A,TSG,large intestine carcinoma;stomach carcinoma;pancreatic carcinoma;biliary tract;oesophagus
+AFF1,fusion,AL
+AFF3,"oncogene, fusion",ALL;T-ALL
+AFF4,"oncogene, fusion",ALL
+AKAP9,fusion,papillary thyroid
+AKT1,oncogene,breast;colorectal;ovarian;NSCLC
+AKT2,oncogene,ovarian;pancreatic
+AKT3,oncogene,GBM
+ALDH2,fusion,leiomyoma
+ALK,"oncogene, fusion",ALCL;NSCLC;neuroblastoma;inflammatory myofibroblastic tumour;Spitzoid tumour
+AMER1,TSG,Wilms tumour
+ANK1,none,CCRCC
+APOBEC3B,"oncogene, TSG",
+ARAF,oncogene,cholangiocarcinoma;lung adenocarcinoma;Langerhans cell histiocytosis
+ARHGAP26,"TSG, fusion",AML;MDS
+ARHGAP35,TSG,endometrial carcinoma
+ARHGAP5,oncogene,colon cancer;glioma
+ARHGEF10,TSG,colon cancer
+ARHGEF10L,TSG,lymphoma
+ARHGEF12,"TSG, fusion",AML
+ARID1A,"TSG, fusion",clear cell ovarian carcinoma;RCC;breast
+ARID1B,TSG,breast;hepatocellular carcinoma;clear cell ovarian carcinoma
+ARID2,TSG,hepatocellular carcinoma
+ARNT,"oncogene, TSG, fusion",AML
+ASPSCR1,fusion,alveolar soft part sarcoma
+ASXL1,TSG,MDS;CMML
+ASXL2,TSG,melanoma;CCRCC;AML
+ATIC,fusion,ALCL
+ATM,TSG,T-PLL
+ATP1A1,"oncogene, TSG",adrenal aldosterone producing adenoma
+ATP2B3,TSG,adrenal aldosterone producing adenoma
+ATRX,TSG,pancreatic neuroendocrine tumours;paediatric GBM
+AXIN1,TSG,colorectal;endometrial;prostate;hepatocellular carcinoma;hepatoblastoma;sporadic medulloblastoma
+AXIN2,TSG,colorectal carcinoma;stomach carcinoma;hepatocellular carcinoma
+B2M,TSG,DLBCL;melanoma;colorectal adenocarcinoma
+BAP1,TSG,uveal melanoma;breast;NSCLC;RCC
+BARD1,TSG,breast cancer
+BAX,TSG,colorectal cancer
+BAZ1A,TSG,uterine carcinosarcoma;colon cancer
+BCL10,"TSG, fusion",MALT
+BCL11A,"oncogene, fusion",B-CLL
+BCL11B,"oncogene, TSG, fusion",T-ALL
+BCL2,"oncogene, fusion",NHL;CLL
+BCL2L12,oncogene,melanoma;SCC
+BCL3,"oncogene, fusion",CLL
+BCL6,"oncogene, fusion",NHL;CLL
+BCL7A,fusion,BNHL
+BCL9,"oncogene, fusion",B-ALL
+BCL9L,"oncogene, TSG",colorectal cancer;endometrial carcinoma;gastric cancer
+BCLAF1,none,melanoma;SCC
+BCOR,"TSG, fusion",retinoblastoma;AML;APL (translocation)
+BCORL1,"oncogene, TSG",AML;HNSCC
+BCR,fusion,CML;ALL;AML
+BIRC3,"oncogene, TSG, fusion",CLL;MALT;MCL;MM
+BIRC6,"oncogene, fusion",melanoma;gastric adenocarcinoma;lung adenocarcinoma
+BLM,TSG,
+BMP5,none,melanoma
+BMPR1A,"oncogene, TSG",
+BRAF,"oncogene, fusion",melanoma;colorectal;papillary thyroid;borderline ovarian;NSCLC;cholangiocarcinoma;pilocytic astrocytoma;Spitzoid tumour;pancreas acinar carcinoma;melanocytic nevus;prostate;gastric
+BRCA1,TSG,ovarian
+BRD3,"oncogene, fusion",lethal midline carcinoma of young people
+BRD4,"oncogene, fusion",lethal midline carcinoma of young people
+BTG2,TSG,DLBCL
+BTK,"oncogene, TSG",CLL;mantle cell lymphoma;WM
+CACNA1D,oncogene,adrenal aldosterone producing adenoma
+CALR,oncogene,MPN;MDS
+CAMTA1,"TSG, fusion",epithelioid haemangioendothelioma
+CANT1,fusion,prostate
+CARD11,oncogene,DLBCL
+CARS,"TSG, fusion",ALCL
+CASP3,TSG,ovarian cancer
+CASP8,TSG,hepatocellular;oral squamous cell;breast
+CASP9,TSG,glioma
+CBFA2T3,"TSG, fusion",AML
+CBFB,"TSG, fusion",AML
+CBL,"oncogene, TSG, fusion",AML;JMML;MDS
+CBLB,TSG,AML
+CBLC,"oncogene, TSG",AML
+CCDC6,"TSG, fusion",papillary thyroid;CML;NSCLC
+CCNB1IP1,"TSG, fusion",leiomyoma
+CCNC,TSG,T-ALL
+CCND1,"oncogene, fusion",CLL;B-ALL;breast
+CCND2,"oncogene, fusion",NHL;CLL
+CCND3,"oncogene, fusion",MM
+CCNE1,oncogene,serous ovarian
+CCR7,oncogene,adult T-cell leukaemia/lymphoma
+CD209,none,prostate carcinoma
+CD274,"TSG, fusion",PMBL;Hodgkin lymphoma
+CD28,oncogene,T-cell lymphoma
+CD74,"oncogene, fusion",NSCLC
+CD79A,oncogene,DLBCL;WM
+CD79B,oncogene,DLBCL;WM
+CDC73,TSG,parathyroid adenoma
+CDH10,TSG,melanoma
+CDH11,"TSG, fusion",aneurysmal bone cyst
+CDH17,oncogene,melanoma
+CDK12,TSG,serous ovarian
+CDK4,oncogene,
+CDK6,"oncogene, fusion",ALL
+CDKN1B,TSG,breast;small intestine neuroendocrine tumours
+CDKN2A,TSG,melanoma;multiple other tumour types
+CDKN2C,TSG,glioma;MM
+CDX2,"TSG, fusion",AML
+CEP89,fusion,Spitzoid tumour
+CHCHD7,fusion,salivary adenoma
+CHD2,TSG,melanoma;large intestine;CLL;monoclonal B lymphocytosis
+CHD4,oncogene,uterine serous carcinoma
+CHEK2,TSG,
+CHIC2,fusion,AML
+CHST11,"oncogene, fusion",B-CLL
+CIC,"oncogene, TSG, fusion",oligodendroglioma;soft tissue sarcoma
+CIITA,"TSG, fusion",PMBL;Hodgkin lymphoma
+CLIP1,fusion,Spitzoid tumour
+CLP1,fusion,AML
+CLTC,"TSG, fusion",ALCL;renal
+CLTCL1,"TSG, fusion",ALCL
+CNBD1,none,gastric cancer;colon cancer
+CNBP,"TSG, fusion",aneurysmal bone cyst
+CNOT3,TSG,T-ALL
+CNTNAP2,TSG,glioma;melanoma
+CNTRL,fusion,MPN;NHL
+COL1A1,fusion,DFSP;aneurysmal bone cyst
+COL2A1,fusion,chondrosarcoma;enchondroma
+COL3A1,fusion,lipoblastoma
+COX6C,fusion,uterine leiomyoma
+CPEB3,TSG,lung cancer
+CREB1,"oncogene, fusion",clear cell sarcoma;angiomatoid fibrous histiocytoma
+CREB3L1,"TSG, fusion",myxofibrosarcoma
+CREB3L2,"oncogene, fusion",fibromyxoid sarcoma
+CREBBP,"oncogene, TSG, fusion",ALL;AML;DLBCL;B-NHL
+CRLF2,"oncogene, fusion",B-ALL;Downs associated ALL
+CRNKL1,none,base cell carcinoma
+CRTC1,"oncogene, fusion",salivary gland mucoepidermoid
+CRTC3,fusion,salivary gland mucoepidermoid
+CSF1R,oncogene,MDS;CML;AML;hemangioblastoma;CCRCC
+CSF3R,oncogene,aCML;CNL;leukaemia lymphoma and MDS associated with severe congenital neutropenia;CMML;de novo AML;MDS
+CSMD3,TSG,ovarian cancer;oral SCC;lung cancer
+CTCF,TSG,endometrial;breast;head and neck cancer
+CTNNA2,oncogene,gastric cancer
+CTNNB1,"oncogene, fusion",colorectal;ovarian;hepatoblastoma;pleomorphic salivary gland adenoma;other tumour types
+CTNND1,none,large intestine carcinoma
+CTNND2,oncogene,prostae adenocarcinoma;GIST
+CUL3,TSG,lung cancer
+CUX1,"oncogene, TSG",endometrial;melanoma;colorectal;AML;MDS;other tumour types
+CXCR4,oncogene,WM
+CYLD,TSG,cylindroma
+CYP2C8,none,melanoma
+CYSLTR2,oncogene,uveal melanoma
+DAXX,"oncogene, TSG",pancreatic neuroendocrine tumour;paediatric glioblastoma
+DCAF12L2,none,CRC
+DCC,none,CRC;melanoma;SCC
+DDB2,"oncogene, TSG",
+DDIT3,"oncogene, fusion",liposarcoma
+DDR2,oncogene,squamous cell carcinoma;NSCLC
+DDX10,"TSG, fusion",AML*
+DDX3X,TSG,CLL;medulloblastoma
+DDX5,"oncogene, fusion",prostate
+DDX6,"oncogene, fusion",B-NHL
+DEK,"oncogene, fusion",AML
+DGCR8,oncogene,Wilms tumour
+DICER1,TSG,sex cord-stromal tumour;TGCT;embryonal rhabdomyosarcoma;pleuropulmonary blastoma;pituitary blastoma;Wilms tumour;thyroid cancer;other tumour types
+DNAJB1,fusion,fibrolamellar hepatocellular carcinoma
+DNM2,TSG,T-ALL
+DNMT3A,TSG,AML
+DROSHA,TSG,Wilms tumour;NSCLC;bladder carcinoma
+EBF1,"TSG, fusion",lipoma
+ECT2L,none,ETP ALL
+EED,TSG,malignant peripheral nerve sheath tumours;MDS and related;lung adenocarcinoma
+EGFR,oncogene,glioma;NSCLC
+EIF1AX,none,uveal melanoma;thyroid cancer (PDTC and ATC);low grade serous ovarian cancer
+EIF3E,"TSG, fusion",colorectal
+EIF4A2,fusion,NHL
+ELF3,TSG,pancreatic cancer
+ELF4,"oncogene, TSG, fusion",AML
+ELK4,"oncogene, fusion",prostate
+ELL,"TSG, fusion",AL
+EML4,fusion,NSCLC
+EP300,"TSG, fusion",colorectal;breast;pancreatic;AML;ALL;DLBCL
+EPAS1,"oncogene, TSG",paraganglioma;pheochromocytoma;central nervous system hemangioblastomas
+EPHA3,none,lung cancer;CRC;melanoma
+EPHA7,none,CRC;melanoma
+EPS15,"TSG, fusion",ALL
+ERBB2,"oncogene, fusion",breast;ovarian;other tumour types;NSCLC;gastric
+ERBB3,oncogene,colon;gastric;head and neck;bladder;skin
+ERBB4,"oncogene, TSG",melanoma;gastric;NSCLC
+ERC1,fusion,papillary thyroid;Spitzoid tumour
+ERCC2,TSG,
+ERCC3,TSG,
+ERCC4,TSG,
+ERCC5,TSG,
+ERG,"oncogene, fusion",Ewing sarcoma;prostate;AML
+ESR1,"oncogene, TSG, fusion",breast
+ETNK1,TSG,aCML;CMML;SM-AHD;HES
+ETV1,"oncogene, fusion",Ewing sarcoma;prostate
+ETV4,"oncogene, fusion",Ewing sarcoma;prostate carcinoma
+ETV5,"oncogene, fusion",prostate
+ETV6,"TSG, fusion",congenital fibrosarcoma;multiple different leukaemia and lymphoma tumour types including ALL;secretory breast;MDS
+EWSR1,"oncogene, fusion",Ewing sarcoma;desmoplastic small round cell tumour ;ALL;clear cell sarcoma;sarcoma;myoepithelioma;mesothelioma
+EXT1,"TSG, fusion",
+EXT2,TSG,
+EZH2,"oncogene, TSG",DLBCL
+EZR,fusion,NSCLC
+FAM131B,fusion,pilocytic astrocytoma
+FAM135B,none,SCLC
+FAM47C,none,melanoma;clear cell sarcoma of soft parts;SCLC
+FANCA,TSG,
+FANCC,TSG,
+FANCD2,TSG,
+FANCE,TSG,
+FANCF,TSG,
+FANCG,TSG,
+FAT1,TSG,oral squamous cell;chemorefractory CLL;head and neck;pancreatic acinar cell carcinoma
+FAT3,none,SCC;colon adenocarcinoma;gastric adenocarcinoma
+FAT4,TSG,lymphoma;pancreatic;head and neck;melanoma;hepatocellular carcinoma
+FBLN2,TSG,breast cancer;colorectal adenocarcinoma
+FBXO11,TSG,DLBCL
+FBXW7,TSG,colorectal;endometrial;T-ALL
+FCGR2B,"oncogene, fusion",ALL
+FCRL4,"oncogene, fusion",B-NHL
+FES,"oncogene, TSG",HNSCC;ovarian carcinoma
+FEV,"oncogene, fusion",Ewing sarcoma
+FGFR1,"oncogene, fusion",MPN;NHL;salivary adenoma
+FGFR1OP,fusion,MPN;NHL
+FGFR2,"oncogene, fusion",gastric;NSCLC;endometrial
+FGFR3,"oncogene, fusion",bladder;MM;T-cell lymphoma
+FGFR4,oncogene,rhabdomyosarcoma
+FH,TSG,
+FHIT,"TSG, fusion",pleomorphic salivary gland adenoma
+FIP1L1,fusion,idiopathic hypereosinophilic syndrome
+FLI1,"oncogene, fusion",Ewing sarcoma
+FLNA,none,phyllodes tumour of the breast
+FLT3,oncogene,AML;ALL
+FLT4,oncogene,soft tissue sarcoma
+FNBP1,fusion,AML
+FOXA1,oncogene,breast;prostate
+FOXL2,"oncogene, TSG",granulosa-cell tumour of the ovary
+FOXO1,"oncogene, TSG, fusion",alveolar rhabdomyosarcoma
+FOXO3,"oncogene, TSG, fusion",AL
+FOXO4,"oncogene, TSG, fusion",AL;soft tissue sarcoma
+FOXP1,"oncogene, fusion",ALL
+FOXR1,"oncogene, fusion",neuroblastoma
+FSTL3,"oncogene, fusion",B-CLL
+FUBP1,oncogene,oligodendroglioma
+FUS,"TSG, fusion",liposarcoma;AML;Ewing sarcoma;angiomatoid fibrous histiocytoma;fibromyxoid sarcoma
+GAS7,fusion,AML*
+GATA1,"oncogene, TSG",megakaryoblastic leukaemia of Downs syndrome
+GATA2,oncogene,AML (CML blast transformation)
+GATA3,"oncogene, TSG",breast
+GLI1,"oncogene, fusion",CRC;oesophagus cancer
+GNA11,oncogene,uveal melanoma;primary central nervous system melanocytic neoplasms
+GNAQ,oncogene,uveal melanoma;primary central nervous system melanocytic neoplasms
+GNAS,oncogene,pituitary adenoma;pancreatic intraductal papillary mucinous neoplasm;fibrous dysplasia
+GOLGA5,fusion,papillary thyroid;Spitzoid tumour
+GOPC,fusion,glioblastoma;cholangiocarcinoma;borderline ovarian
+GPC3,"oncogene, TSG",
+GPC5,TSG,lung adenocarcinoma
+GPHN,fusion,AL
+GRIN2A,TSG,melanoma;colorectal carcinoma;gastric carcinoma;lung carcinoma
+GRM3,oncogene,melanoma;oral SCC
+H3F3A,oncogene,glioma
+H3F3B,oncogene,chondroblastoma
+HERPUD1,fusion,prostate
+HEY1,"oncogene, fusion",mesenchymal chondrosarcoma
+HIP1,"oncogene, fusion",CMML;NSCLC
+HIST1H3B,oncogene,glioma
+HIST1H4I,fusion,NHL
+HLA-A,fusion,Spitzoid tumour
+HMGA1,"oncogene, fusion",microfollicular thyroid adenoma;various benign mesenchymal tumours
+HMGA2,"oncogene, fusion",lipoma;leiomyoma;pleomorphic salivary gland adenoma
+HNF1A,TSG,hepatic adenoma;hepatocellular
+HNRNPA2B1,"oncogene, fusion",prostate
+HOOK3,fusion,papillary thyroid
+HOXA11,"oncogene, TSG, fusion",CML
+HOXA13,"oncogene, fusion",AML
+HOXA9,"oncogene, TSG, fusion",AML*
+HOXC11,"oncogene, fusion",AML
+HOXC13,"oncogene, fusion",AML
+HOXD13,"oncogene, fusion",AML*
+HRAS,oncogene,infrequent sarcomas;rare other tumour types
+HSP90AA1,fusion,NHL
+HSP90AB1,fusion,NHL
+ID3,TSG,Burkitt lymphoma
+IDH1,oncogene,glioblastoma
+IDH2,oncogene,glioblastoma
+IGF2BP2,TSG,lymphoma
+IKBKB,oncogene,SMZL
+IKZF1,"TSG, fusion",ALL;DLBCL
+IKZF3,"oncogene, TSG",B-ALL;CLL
+IL2,fusion,intestinal T-cell lymphoma
+IL21R,fusion,NHL
+IL6ST,oncogene,hepatocellular carcinoma
+IL7R,oncogene,ALL;ETP ALL
+IRF4,"oncogene, TSG, fusion",MM
+IRS4,"oncogene, TSG",glioma;rhabdomyosarcoma;melanoma;breast cancer;T-ALL
+ISX,none,melanoma
+ITGAV,none,large intestine carcinoma
+ITK,fusion,peripheral T-cell lymphoma
+JAK1,"oncogene, TSG",ALL
+JAK2,"oncogene, fusion",ALL;AML;MPN;CML
+JAK3,oncogene,acute megakaryocytic leukaemia;ETP ALL
+JAZF1,fusion,endometrial stromal tumour
+JUN,oncogene,sarcoma
+KAT6A,"oncogene, fusion",AML
+KAT6B,"TSG, fusion",AML;leiomyoma
+KAT7,oncogene,CCRCC
+KCNJ5,oncogene,adrenal adenoma
+KDM5A,"oncogene, fusion",AML
+KDM5C,TSG,clear cell renal carcinoma
+KDM6A,"oncogene, TSG",renal cell carcinoma;bladder carcinoma;oesophageal SCC;MM;medulloblastoma;T-ALL;other tumour types
+KDR,oncogene,NSCLC;angiosarcoma
+KDSR,fusion,B-NHL
+KEAP1,TSG,NSCLC;breast carcinoma
+KIAA1549,fusion,pilocytic astrocytoma
+KIF5B,fusion,NSCLC;Spitzoid tumour
+KIT,oncogene,GIST;AML;TGCT;mastocytosis;mucosal melanoma
+KLF4,"oncogene, TSG",meningioma
+KLF6,TSG,prostate;glioma
+KLK2,fusion,prostate
+KMT2D,"oncogene, TSG",medulloblastoma;renal
+KNSTRN,oncogene,SCC
+KRAS,oncogene,pancreatic;colorectal;lung;thyroid;AML;other tumour types
+KTN1,fusion,papillary thyroid
+LARP4B,TSG,CRC;glioma
+LASP1,fusion,AML
+LATS1,TSG,skin basal cell carcinoma
+LATS2,TSG,malignant mesothelioma
+LCK,"oncogene, fusion",T-ALL
+LEF1,"oncogene, TSG",B-ALL;T-ALL;eyelid sebaceous carcinoma;AML;lymphomas
+LEPROTL1,TSG,lung cancer;colon cancer
+LHFPL6,fusion,lipoma
+LIFR,fusion,salivary adenoma
+LMNA,fusion,Spitzoid tumour
+LMO1,"oncogene, fusion",T-ALL;neuroblastoma
+LMO2,"oncogene, fusion",T-ALL
+LPP,"oncogene, fusion",lipoma;leukaemia
+LRIG3,"TSG, fusion",NSCLC
+LRP1B,TSG,CLL;ovarian cancer;oesophageal squamous cell carcinoma;urothelial cancer
+LSM14A,fusion,Spitzoid tumour
+LYL1,"oncogene, fusion",T-ALL
+LYN,"oncogene, fusion",DLBCL;B-ALL;MPN
+LZTR1,TSG,glioblastoma
+MACC1,oncogene,liver;CRC
+MAF,"oncogene, fusion",MM
+MAFB,"oncogene, fusion",MM
+MALT1,"oncogene, fusion",MALT
+MAML2,"oncogene, fusion",salivary gland mucoepidermoid
+MAP2K1,oncogene,NSCLC;melanoma;colorectal
+MAP2K2,oncogene,NSCLC;melanoma
+MAP2K4,"oncogene, TSG",pancreatic;breast;colorectal
+MAP3K1,"oncogene, TSG",luminal A breast
+MAP3K13,"oncogene, TSG",breast
+MAPK1,oncogene,CLL;ovarian mixed germ cell tumour;cervical carcinoma
+MAX,TSG,pheochromocytoma;endometrioid carcinoma;colon carcinoma
+MB21D2,none,lung cancer
+MDM2,oncogene,sarcoma;glioma;colorectal;other tumour types
+MDM4,oncogene,glioblastoma;bladder;retinoblastoma
+MECOM,"oncogene, fusion",AML;CML;MDS
+MED12,TSG,uterine leiomyoma;fibroadenoma;phyllodes tumour
+MEN1,TSG,parathyroid tumours;pancreatic neuroendocrine tumour
+MET,oncogene,papillary renal;head-neck squamous cell
+MGMT,TSG,glioma
+MITF,oncogene,melanoma
+MLF1,"TSG, fusion",AML
+MLH1,TSG,colorectal;endometrial;ovarian;CNS tumours
+MLLT1,fusion,AL
+MLLT10,"oncogene, fusion",AL
+MLLT11,fusion,ALL
+MLLT3,fusion,ALL
+MLLT6,fusion,AL
+MN1,"oncogene, fusion",AML;MDS
+MNX1,fusion,AML
+MPL,oncogene,MPN
+MSH2,TSG,colorectal;endometrial;ovarian
+MSH6,TSG,colorectal
+MSI2,"oncogene, fusion",CML
+MSN,fusion,ALCL
+MTOR,oncogene,endometrial carcinoma;head and neck;clear cell renal cell carcinoma;anaplastic thyroid cancer;urothelial cell carcinoma;central nervous system tumours;testicular germ cell tumours and other tumour types
+MUC1,fusion,B-NHL
+MUC16,oncogene,HNSCC;melanoma
+MUC4,oncogene,HNSCC
+MUTYH,TSG,
+MYB,"oncogene, fusion",adenoid cystic carcinoma
+MYC,"oncogene, fusion",Burkitt lymphoma;amplified in other cancers;B-CLL
+MYCL,oncogene,small cell lung carcinoma
+MYCN,oncogene,neuroblastoma;Wilms tumour
+MYD88,oncogene,ABC-DLBCL
+MYH11,fusion,AML
+MYH9,"TSG, fusion",ALCL
+MYO5A,fusion,Spitzoid tumour
+MYOD1,oncogene,embryonal rhabdomyosarcoma
+N4BP2,TSG,lung cancer
+NAB2,"TSG, fusion",solitary fibrous tumour;meningeal haemangiopericytoma
+NACA,fusion,NHL
+NBEA,none,large intestine carcinoma;multiple myeloma
+NCKIPSD,fusion,ALL
+NCOA1,fusion,alveolar rhabdomyosarcoma
+NCOA2,"oncogene, fusion",AML;chondrosarcoma;rhabdomyosarcoma
+NCOR1,TSG,breast
+NCOR2,TSG,prostate
+NDRG1,"TSG, fusion",prostate
+NF1,"TSG, fusion",neurofibroma;glioma
+NF2,TSG,meningioma;acoustic neuroma;renal
+NFATC2,"oncogene, fusion",Ewing sarcoma
+NFE2L2,"oncogene, TSG",NSCLC;HNSCC
+NFIB,fusion,adenoid cystic carcinoma;lipoma
+NFKB2,"oncogene, TSG, fusion",B-NHL
+NFKBIE,TSG,CLL;desmoplastic melanoma
+NIN,fusion,MPN
+NONO,fusion,papillary renal
+NOTCH1,"oncogene, TSG, fusion",T-ALL;breast;bladder;skin SCC;lung SCC;head and neck SCC
+NOTCH2,"oncogene, TSG",marginal zone lymphoma;DLBCL;bladder
+NPM1,"oncogene, fusion",NHL;APL;AML
+NR4A3,"oncogene, fusion",extraskeletal myxoid chondrosarcoma
+NRAS,oncogene,melanoma;MM;AML;thyroid
+NRG1,"TSG, fusion",NSCLC
+NSD1,fusion,AML
+NT5C2,oncogene,relapse ALL
+NTHL1,TSG,
+NTRK1,"oncogene, TSG, fusion",papillary thyroid;Spitzoid tumour
+NTRK3,"oncogene, fusion",congenital fibrosarcoma;secretory breast
+NUMA1,fusion,APL
+NUP214,fusion,AML;T-ALL
+NUP98,"oncogene, fusion",AML
+OLIG2,"oncogene, fusion",T-ALL
+OMD,fusion,aneurysmal bone cyst
+P2RY8,"oncogene, fusion",B-ALL;Down syndrome associated ALL
+PAFAH1B2,fusion,MLCLS
+PALB2,TSG,
+PATZ1,"TSG, fusion",Ewing sarcoma
+PAX3,"oncogene, fusion",alveolar rhabdomyosarcoma
+PAX5,"oncogene, TSG, fusion",NHL;ALL;B-ALL
+PAX7,fusion,alveolar rhabdomyosarcoma
+PAX8,fusion,follicular thyroid
+PBRM1,TSG,clear cell renal carcinoma;breast
+PBX1,"oncogene, fusion",pre B-ALL;myoepithelioma
+PCBP1,none,CRC
+PDCD1LG2,"oncogene, fusion",PMBL;Hodgkin lymphoma
+PDE4DIP,fusion,MPN
+PDGFB,"oncogene, fusion",DFSP
+PDGFRA,"oncogene, fusion",GIST;idiopathic hypereosinophilic syndrome;paediatric glioblastoma
+PDGFRB,"oncogene, fusion",MPN;AML;CMML;CML
+PHF6,TSG,ETP ALL
+PHOX2B,TSG,neuroblastoma
+PICALM,fusion,T-ALL;AML
+PIK3CA,oncogene,colorectal;gastric;glioblastoma;breast
+PIK3CB,oncogene,SCC;NSCLC
+PIK3R1,TSG,glioblastoma;ovarian;colorectal
+PLAG1,"oncogene, fusion",salivary adenoma;lipoblastoma
+PLCG1,"oncogene, fusion",angiosarcoma
+PML,"TSG, fusion",APL;ALL
+PMS1,none,
+PMS2,TSG,
+POLD1,TSG,CRC
+POLE,TSG,colorectal carcinoma;endometrioid carcinoma;stomach carcinoma;skin cancer
+POLG,TSG,CRC
+POT1,TSG,CLL
+POU2AF1,"oncogene, fusion",NHL
+POU5F1,"oncogene, fusion",sarcoma
+PPARG,"TSG, fusion",follicular thyroid
+PPFIBP1,fusion,Spitzoid tumour;inflammatory myofibroblastic tumour
+PPM1D,oncogene,glioma;ovarian cancer;breast cancer
+PPP2R1A,TSG,clear cell ovarian carcinoma
+PPP6C,TSG,melanoma
+PRCC,fusion,papillary renal
+PRDM1,TSG,DLBCL
+PRDM16,"oncogene, fusion",MDS;AML
+PRDM2,TSG,glioma;colon adenocarcinoma;gastric carcinoma;ovarian carcinoma;HNSCC
+PREX2,oncogene,melanoma;pancreatic ductal adenocarcinoma
+PRF1,TSG,
+PRKACA,oncogene,fibrolamellar hepatocellular carcinoma;cortisol secreting adrenal adenoma
+PRKAR1A,"oncogene, TSG, fusion",papillary thyroid
+PRKCB,none,adult T-cell lymphoma-leukaemia
+PRPF40B,none,melanoma;colon carcinoma;MDS
+PRRX1,fusion,AML
+PSIP1,"oncogene, fusion",AML
+PTCH1,TSG,skin basal cell;medulloblastoma
+PTEN,TSG,glioma;prostate;endometrial
+PTK6,"oncogene, TSG",renal;gastric;head and neck;ovarian;others
+PTPN11,oncogene,JMML;AML;MDS
+PTPN13,TSG,lung;NSCLC;gastric;peritoneal carcinomatosis
+PTPN6,TSG,DLBCL
+PTPRB,TSG,angiosarcoma
+PTPRC,TSG,T-ALL
+PTPRD,TSG,lung cancer;kidney cancer;HNSCC;glioblastoma
+PTPRK,"TSG, fusion",colorectal
+PTPRT,TSG,HNSCC;colorectal cancer;gastric cancer;lung cancer;melanoma
+PWWP2A,fusion,Spitzoid tumour
+QKI,"oncogene, TSG",angiocentric glioma;colorectal cancer
+RABEP1,fusion,CMML
+RAD17,TSG,lymphoma;colon cancer
+RAD21,"oncogene, TSG",AML;endometrium;colorectal;lung
+RAD51B,"TSG, fusion",lipoma;uterine leiomyoma
+RALGDS,fusion,PMBL;Hodgkin lymphoma
+RANBP2,"TSG, fusion",inflammatory myofibroblastic tumour
+RAP1GDS1,"oncogene, fusion",T-ALL
+RARA,"oncogene, fusion",APL
+RB1,TSG,retinoblastoma;sarcoma;breast;small cell lung carcinoma
+RBM10,TSG,lung adenocarcinoma
+RBM15,fusion,acute megakaryocytic leukaemia
+RECQL4,"oncogene, TSG",
+REL,oncogene,Hodgkin lymphoma
+RET,"oncogene, fusion",medullary thyroid;papillary thyroid;pheochromocytoma;NSCLC;Spitzoid tumour
+RFWD3,TSG,lung cancer
+RGS7,none,melanoma
+RHOA,"oncogene, TSG",diffuse gastric;T cell lymphomas;paediatric Burkitt lymphoma
+RHOH,"TSG, fusion",NHL
+RMI2,"TSG, fusion",PMBL;Hodgkin lymphoma
+RNF213,fusion,ALCL
+RNF43,TSG,cholangiocarcinoma;ovary;pancreas
+ROBO2,TSG,colorectal adenocarcinoma;melanoma
+ROS1,"oncogene, fusion",glioblastoma;NSCLC;Spitzoid tumour;cholangiocarcinoma;borderline ovarian
+RPL22,"TSG, fusion",AML;CML
+RPL5,TSG,T-ALL
+RPN1,fusion,AML
+RSPO2,"TSG, fusion",colorectal
+RUNX1,"oncogene, TSG, fusion",AML;pre B-ALL;T-ALL
+RUNX1T1,"oncogene, TSG, fusion",AML
+S100A7,fusion,melanoma;T-cell lymphoma
+SALL4,oncogene,colorectal cancer;breast cancer;prostate cancer;glioblastoma;melanoma
+SBDS,TSG,
+SDC4,fusion,NSCLC
+SDHA,TSG,GIST;paraganglioma
+SDHB,TSG,
+SDHC,TSG,
+5-Sep,fusion,AML
+6-Sep,fusion,AML
+9-Sep,fusion,AML*
+SET,"oncogene, fusion",T-ALL
+SETBP1,"oncogene, fusion",aCML;sAML;MDS/MPN-U;CMML;JMML
+SETD1B,TSG,CRC;endometrium
+SETD2,TSG,clear cell renal carcinoma
+SETDB1,oncogene,malignant mesothelioma
+SF3B1,oncogene,myelodysplastic syndrome
+SFPQ,"TSG, fusion",papillary renal
+SFRP4,TSG,colorectal cancer;melanoma;SCC;gastric cancer;oesophageal SCC
+SGK1,oncogene,Nodular lymphocyte predominant Hodgkin lymphoma
+SH2B3,TSG,MPN;sAML;erythrocytosis;B-ALL
+SH3GL1,"oncogene, fusion",AL
+SIRPA,TSG,HNSCC;colorectal cancer;Lung SCC
+SIX1,oncogene,Wilms tumour
+SIX2,oncogene,Wilms tumour
+SKI,oncogene,melanoma
+SLC34A2,"TSG, fusion",NSCLC
+SLC45A3,fusion,prostate
+SMAD2,TSG,colorectal carcinoma;hepatocellular carcinoma
+SMAD3,TSG,colorectal carcinoma;oral squamous cell carcinoma
+SMAD4,TSG,colorectal;pancreatic;small intestine
+SMARCA4,TSG,NSCLC;SCCOHT
+SMARCB1,TSG,malignant rhabdoid
+SMARCD1,TSG,breast
+SMARCE1,TSG,
+SMC1A,TSG,AML
+SND1,"oncogene, fusion",pancreas acinar carcinoma
+SNX29,fusion,PMBL;Hodgkin lymphoma
+SOCS1,TSG,Hodgkin lymphoma;PMBL
+SOX21,TSG,multiple myeloma
+SPEN,TSG,SMZL;adenoid cystic carcinoma;DLBCL
+SPOP,TSG,prostate;endometrial
+SRC,oncogene,colorectal cancer;endometrial carcinoma
+SRGAP3,fusion,pilocytic astrocytoma
+SRSF2,oncogene,MDS;CLL
+SS18,fusion,synovial sarcoma
+SS18L1,fusion,synovial sarcoma
+SSX1,"oncogene, fusion",synovial sarcoma
+STAG2,TSG,bladder carcinoma;glioblastoma;melanoma;Ewing's sarcoma;myeloid neoplasms
+STAT3,oncogene,T-cell large granular lymphocytic leukaemia
+STAT5B,"oncogene, TSG, fusion",large granular lymphocytic leukaemia;skin basal cell;APL
+STAT6,"oncogene, fusion",solitary fibrous tumour;meningeal haemangiopericytoma
+STIL,"oncogene, fusion",T-ALL
+STK11,TSG,NSCLC;pancreatic
+STRN,fusion,anaplastic thyroid;papillary thyroid;lung
+SUFU,TSG,medulloblastoma
+SUZ12,"oncogene, TSG, fusion",endometrial stromal tumour
+SYK,"oncogene, fusion",MDS;peripheral T-cell lymphoma
+TAF15,"oncogene, fusion",extraskeletal myxoid chondrosarcoma;ALL
+TAL1,"oncogene, fusion",lymphoblastic leukaemia/biphasic
+TAL2,"oncogene, fusion",T-ALL
+TBL1XR1,"oncogene, TSG, fusion",splenic marginal zone lymphoma;primary central nervous system lymphoma;colorectal carcinoma;gallbladder carcinoma
+TBX3,"oncogene, TSG",breast;large intestine;skin
+TCF12,fusion,extraskeletal myxoid chondrosarcoma
+TCF7L2,"oncogene, fusion",colorectal
+TCL1A,"oncogene, fusion",T-CLL
+TEC,"oncogene, fusion",myxoid chondrosarcoma
+TENT5C,TSG,MM
+TERT,"oncogene, TSG",melanoma;glioblastoma;hepatocellular carcinoma;bladder;skin basal cell;skin squamous cell;mesothelioma;medulloblastoma;other tumour types
+TET1,"oncogene, TSG, fusion",AML
+TET2,TSG,MDS
+TFE3,"oncogene, fusion",papillary renal;alveolar soft part sarcoma;renal
+TFEB,"oncogene, fusion",renal cell carcinoma (childhood epithelioid)
+TFG,fusion,papillary thyroid;ALCL;NSCLC;extraskeletal myxoid chondrosarcoma
+TFPT,fusion,pre-B ALL
+TFRC,fusion,NHL
+TGFBR2,TSG,head and neck;colorectal
+THRAP3,fusion,aneurysmal bone cyst
+TLX1,"oncogene, fusion",T-ALL
+TLX3,"oncogene, fusion",T-ALL
+TMEM127,TSG,
+TMPRSS2,fusion,prostate
+TNC,oncogene,SCC;melanoma
+TNFAIP3,TSG,marginal zone B-cell lymphomas;Hodgkin lymphoma;PMBL
+TNFRSF14,TSG,follicular lymphoma
+TNFRSF17,"oncogene, fusion",intestinal T-cell lymphoma
+TOP1,fusion,AML*
+TP53,"oncogene, TSG, fusion",breast;colorectal;lung;sarcoma;adrenocortical;glioma;Spitzoid tumour;multiple other tumour types
+TP63,"oncogene, TSG",HNSCC;DLBCL
+TPM3,"TSG, fusion",papillary thyroid;ALCL;NSCLC;Spitzoid tumour
+TPM4,fusion,ALCL
+TPR,fusion,papillary thyroid;NSCLC
+TRAF7,TSG,meningioma
+TRIM24,"oncogene, TSG, fusion",APL
+TRIM27,"oncogene, fusion",papillary thyroid
+TRIM33,"TSG, fusion",papillary thyroid
+TRIP11,fusion,AML
+TRRAP,oncogene,melanoma
+TSC1,TSG,renal cell carcinoma;bladder carcinoma
+TSC2,TSG,pulmonary lymphangioleiomyomatosis (LAM);renal angiomyolipoma;HNSCC
+TSHR,oncogene,toxic thyroid adenoma
+U2AF1,oncogene,CLL;MDS
+UBR5,oncogene,mantle cell lymphoma;gastric;colorectal
+USP44,TSG,lung cancer;colon cancer
+USP6,"oncogene, fusion",aneurysmal bone cyst
+USP8,oncogene,corticotroph adenoma
+USP9X,fusion,colon carcinoma
+VAV1,fusion,T-cell lymphoma
+VHL,TSG,renal;haemangioma;pheochromocytoma
+VTI1A,fusion,colorectal
+WAS,oncogene,
+WIF1,"TSG, fusion",pleomorphic salivary gland adenoma
+WNK2,TSG,gastric cancer
+WRN,TSG,
+WT1,"oncogene, TSG, fusion",Wilms tumour;desmoplastic small round cell tumour
+WWTR1,"oncogene, fusion",epithelioid haemangioendothelioma
+XPA,TSG,
+XPC,TSG,
+XPO1,oncogene,CLL
+YWHAE,"TSG, fusion",endometrial stromal sarcoma
+ZBTB16,"TSG, fusion",APL
+ZCCHC8,fusion,Spitzoid tumour
+ZEB1,oncogene,CCRCC;melanoma
+ZFHX3,TSG,endometrial;gastric;prostate
+ZMYM2,fusion,MPN;NHL
+ZMYM3,TSG,CRC;breast cancer
+ZNF331,"TSG, fusion",follicular thyroid adenoma
+ZNF384,fusion,ALL
+ZNF429,none,GBM
+ZNF479,none,lung cancer;bladder carcinoma;prostate carcinoma
+ZNF521,"oncogene, fusion",ALL
+ZNRF3,TSG,colorectal cancer;adrenocortical carcinoma;gastric cancer
+ZRSR2,TSG,MDS;CLL
