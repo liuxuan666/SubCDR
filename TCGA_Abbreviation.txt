@@ -1,0 +1,47 @@
+Abbreviation	TCGA_type
+ACC	Adrenocortical Cancer
+ALL	Acute lymphoblastic leukemia
+BLCA	Bladder Cancer
+BRCA	Breast Cancer
+CESC	Cervical Cancer
+CHOL	Bile Duct Cancer
+CLL	Chronic lymphocytic leukemia
+COAD	Colon Cancer
+COADREAD	Colon and Rectal Cancer
+COREAD	Colon and rectum adenocarcinoa
+DLBC	Large B-cell Lymphoma
+ESCA	Esophageal Cancer
+FPPP	FFPE Pilot Phase II
+GBM	Glioblastoma
+GBMLGG	lower grade glioma and glioblastoma
+HNSC	Head and Neck Cancer
+KICH	Kidney Chromophobe
+KIRC	Kidney Clear Cell Carcinoma
+KIRP	Kidney Papillary Cell Carcinoma
+LAML	Acute Myeloid Leukemia
+LCML	Chronic myelogenous leukemia
+LGG	Lower Grade Glioma
+LIHC	Liver Cancer
+LUAD	Lung Adenocarcinoma
+LUNG	Lung Cancer
+LUSC	Lung Squamous Cell Carcinoma
+MB	Medulloblastoma
+MESO	Mesothelioma
+MM	Multiple myeloma
+NB	Neuroblastoma
+OV	Ovarian Cancer
+PAAD	Pancreatic Cancer
+PANCAN	Pan-Cancer
+PCPG	Pheochromocytoma&Paraganglioma
+PRAD	Prostate Cancer
+READ	Rectal Cancer
+SARC	Sarcoma
+SCLC	Small cell lung cancer
+SKCM	Melanoma
+STAD	Stomach Cancer
+TGCT	Testicular Cancer
+THCA	Thyroid Cancer
+THYM	Thymoma
+UCEC	Endometrioid Cancer
+UCS	Uterine Carcinosarcoma
+UVM	Ocular melanomas
