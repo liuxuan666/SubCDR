@@ -14,6 +14,7 @@ Source code and data for "A interpretable subcomponent-guided deep learning meth
 # Usage
 * python main_cv.py \<parameters\>
 * python main_independent.py \<parameters\>
+* python main_classify.py \<parameters\>
   
 # Case study (predicted unmeasured CDRs)
 As GDSC v2 database only measured IC50 values of part cell line and drug combinations. We applied SubCDR to predicted IC50 values for unmeasured combinations. The predicted results can be find at data/unmeasured_combinations_results.xlsx
