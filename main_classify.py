@@ -31,7 +31,7 @@ drug_subfeat, cline_subfeat, CDR_pairs, drug_dim, drug_compo_elem, cline_compos_
 train_size = 0.9
 CV, Independent = np.split(CDR_pairs.sample(frac = 1, random_state = seed), [int(train_size * len(CDR_pairs))])
 
-#---Binarization of the IC50
+#---Binarization of the IC50 values
 def getBinary(Tensors, thresh=-2):
     ones = torch.ones_like(Tensors)
     zeros = torch.zeros_like(Tensors)
