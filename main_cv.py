@@ -156,11 +156,11 @@ for train_index, validation_index in kf.split(cv_data):
         if(rmse < Final_RMSE):
             Final_RMSE = rmse; Final_R2 = r2; Final_PCC = pcc
             #save_maps(dc_valid, cc_valid, all_maps, fold)
-            torch.save(model.state_dict(), args.o + "cv_"+ str(cv_scenario) + "_model.pkl")    
+            torch.save(model.state_dict(), args.o + "cv"+ "_model.pkl")    
     print('\nFold = %s, Final_RMSE=%s, Final_R2=%s, Final_PCC=%s \n'%(fold, Final_RMSE, Final_R2, Final_PCC))
     Result.append([Final_RMSE, Final_R2, Final_PCC])
     fold = fold + 1
 #%%
 #save_prediction_results  
-odir =  args.o + "cv_"+ str(cv_scenario) + "_results.txt"  
+odir =  args.o + "cv"+ "_results.txt"  
 np.savetxt(odir, np.array(Result))
