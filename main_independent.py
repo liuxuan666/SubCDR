@@ -106,7 +106,6 @@ def save_maps(dc, cc, maps):
         map_save = pd.DataFrame(m[:len(d[1]), :], index = d[1], columns = c[1])
         map_save.to_csv(fname)
         
-#%%---traing and test
 #---Building known matrix
 CDR_known = CV.set_index(['Cline', 'Drug']).unstack('Cline')
 CDR_known.columns = CDR_known.columns.droplevel()
