@@ -18,8 +18,6 @@ parser.add_argument('--lr', dest = 'lr', type = float, default = 0.0001,)
 parser.add_argument('--batch_sizes', dest = 'bs', type = int, default = 50)
 parser.add_argument('--epoch', dest = 'ep', type = int, default = 200)
 parser.add_argument('-output_dir', dest = 'o', default = "./output_dir/", help = "output directory")
-parser.add_argument('--cv_scenario', dest = 'cs', type = int, default = 1, \
-                    help = 'input 1 (Random cv), 2 (cold start for drugs), or 3 (cold start for cell lines)')
 args = parser.parse_args()
 
 os.makedirs(args.o, exist_ok = True)
@@ -111,44 +109,16 @@ def save_maps(dc, cc, maps, fold):
         map_save = pd.DataFrame(m[:len(d[1]), :], index = d[1], columns = c[1])
         map_save.to_csv(fname)
         
-#---Three scenarios: random cv, stratified cv for drugs, stratified cv for cell lines
-cv_scenario = args.cs
-if cv_scenario == 1: # random cv
-    cv_data = CV
-elif cv_scenario == 2: # cold start for drugs
-    cv_data = np.unique(CV['Drug'])
-elif cv_scenario == 3: # cold start for cell lines
-    cv_data = np.unique(CV['Cline'])
- 
+#---Scenario: random cv
+cv_data = CV
 #%%---traing and valid
 Result = []
 fold = 1
-for train_index, validation_index in kf.split(cv_data):
-    if cv_scenario == 1: #random_level
-        train_set, validation_set = cv_data.iloc[train_index,:], cv_data.iloc[validation_index,:]
-        #---Building known matrix
-        CDR_known = train_set.set_index(['Cline', 'Drug']).unstack('Cline')
-        CDR_known.columns = CDR_known.columns.droplevel()
-        
-    elif cv_scenario == 2: #drug_level
-        train_elem, validation_elem = cv_data[train_index], cv_data[validation_index]
-        train_set = CV[CV.Drug.isin(train_elem)]
-        validation_set = CV[CV.Drug.isin(validation_elem)]  
-        #---Building known matrix
-        CDR_known = CV.set_index(['Cline', 'Drug']).unstack('Cline')
-        CDR_known.columns = CDR_known.columns.droplevel()
-        excl_drug = set(list(validation_set['Drug']))
-        CDR_known.loc[excl_drug,:] = 0 #---------------------------------------
-        
-    elif cv_scenario == 3: #cell line_level
-        train_elem, validation_elem = cv_data[train_index], cv_data[validation_index]
-        train_set = CV[CV.Cline.isin(train_elem)]
-        validation_set = CV[CV.Cline.isin(validation_elem)]
-        #---Building known matrix
-        CDR_known = CV.set_index(['Cline', 'Drug']).unstack('Cline')
-        CDR_known.columns = CDR_known.columns.droplevel()
-        excl_cline = set(list(validation_set['Cline']))
-        CDR_known.loc[:,excl_cline] = 0
+for train_index, validation_index in kf.split(cv_data): 
+    train_set, validation_set = cv_data.iloc[train_index,:], cv_data.iloc[validation_index,:]
+    #---Building known matrix
+    CDR_known = train_set.set_index(['Cline', 'Drug']).unstack('Cline')
+    CDR_known.columns = CDR_known.columns.droplevel()
     #---MF    
     CDR_matrix = np.array(CDR_known)
     CDR_mask = 1-np.float32(np.isnan(CDR_matrix))
