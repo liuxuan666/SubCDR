@@ -109,7 +109,7 @@ def save_maps(dc, cc, maps, fold):
         map_save = pd.DataFrame(m[:len(d[1]), :], index = d[1], columns = c[1])
         map_save.to_csv(fname)
         
-#---Scenario: random cv
+#---Scenario: random cv 
 cv_data = CV
 #%%---traing and valid
 Result = []
